@@ -27,4 +27,4 @@ This is the problem-solving pattern I follow for solving coding challenges. I le
 
 ## 13. Can I improve the O(n) of my solution?
 
-## 14. Are my tests passing? Can I write more?
+## 14. Are my tests still passing? Can I write more?
